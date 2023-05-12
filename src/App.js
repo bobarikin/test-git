@@ -4,6 +4,7 @@ import {Subtitle} from "./components/subtitle/Subtitle"
 import {Footer} from "./components/button/Footer"
 import { Input } from "./components/button/Input/Input";
 import { Header } from "./components/header/Header";
+import { ImgTien } from "./components/ImgTien/ImgTien";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Select></Select>
       <Footer/>
       <Input/>
+      <ImgTien/>
     </div>
   );
 }
