@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>hi</h1>
       <Button></Button>
+      <Input/>
     </div>
   );
 }
