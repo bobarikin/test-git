@@ -1,6 +1,6 @@
 import { Button } from "./components/button/Button"
 import { Header } from "./components/header/Header";
-
+import {TaskSevka} from "./components/taskSevka/TaskSevka"
 function App() {
   return (
     <div className="App">
