@@ -1,8 +1,8 @@
+import React from 'react'
 
-
-export function TaskSevka(){
-
+export const TaskSevka = () => {
 	return (
-		<button>TaskSevka</button>
+		<div><button>TaskSevka</button></div>
 	)
 }
+
