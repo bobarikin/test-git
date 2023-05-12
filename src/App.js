@@ -4,6 +4,7 @@ import {Subtitle} from "./components/subtitle/Subtitle"
 import {Footer} from "./components/button/Footer"
 import { Input } from "./components/button/Input/Input";
 import { Header } from "./components/header/Header";
+import {TaskSevka} from "./components/taskSevka/TaskSevka"
 import { ImgTien } from "./components/ImgTien/ImgTien";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Footer/>
       <Input/>
       <ImgTien/>
+      <TaskSevka/>
     </div>
   );
 }
