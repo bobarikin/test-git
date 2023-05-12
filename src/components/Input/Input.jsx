@@ -5,3 +5,10 @@ export const Input = () => {
     <div>Input</div>
   )
 }
+import React from "react";
+
+const Input = () => {
+  return <input></input>;
+};
+
+export default Input;
