@@ -1,3 +1,5 @@
+import { Button } from "./components/button/Button"
+import { Input } from "./components/Input/Input";
 import { Button } from "./components/button/Button";
 import  Select  from "./components/Select/Select"
 import {Subtitle} from "./components/subtitle/Subtitle"
@@ -13,6 +15,7 @@ function App() {
       <h1>hi</h1>
       <Subtitle></Subtitle>
       <Button></Button>
+      <Input></Input>
       <Select></Select>
       <Footer/>
       <Input/>
