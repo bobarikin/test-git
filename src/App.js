@@ -1,5 +1,6 @@
 import { Button } from "./components/button/Button"
 import { Header } from "./components/header/Header";
+import { ImgTien } from "./components/ImgTien/ImgTien";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <Header/>
       <h1>hi</h1>
       <Button></Button>
+      <ImgTien/>
     </div>
   );
 }
